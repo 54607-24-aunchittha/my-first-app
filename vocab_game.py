@@ -1,4 +1,4 @@
-   if score == 2:
+if score == 2:
         st.success("🎉 You win!")
     else:
         st.error("💀 You lose!")
