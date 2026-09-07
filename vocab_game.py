@@ -101,4 +101,4 @@ if st.session_state.get("is_ended", False):
     show_result_dialog(ans1, ans2)
 
 st.divider()
-st.writest("นางสาวอํญชิษฐา คงโพธิ์ทอง เลขที่ 24 ม.4/4")
+st.write("นางสาวอํญชิษฐา คงโพธิ์ทอง เลขที่ 24 ม.4/4")
